@@ -1,2 +1,2 @@
 # Device-agnostic-crosstalk-detection
-The python code written for my Master's thesis "Device-agnostic crosstalk detection in quantum computers" that utilizes existing functionality of pyGSTi (https://github.com/sandialabs/pyGSTi) and modified one of its deprecated functions.
+The python code written for my Master's thesis "Device-agnostic crosstalk detection in quantum computers" that utilizes existing functionality of pyGSTi (https://github.com/sandialabs/pyGSTi) and modified one of its deprecated functions crosstalk_detection_experiment2(). Outputs, which are very long, are preserved in the notebook, so for easier scrolling of the code the file should be downloaded.
